@@ -105,7 +105,7 @@ Solar-System-Spaceship/
 ```
 
 
-### Main Components (Conceptual)
+### Main Components
 
 - **`GLFW_Version.cpp`**
   - Entry point of the application
