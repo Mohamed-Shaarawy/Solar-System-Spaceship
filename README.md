@@ -104,8 +104,6 @@ Solar-System-Spaceship/
 ├─ README.md             
 ```
 
-> Note: GitHub’s API listing is truncated in tooling, so there may be a few more files and folders not shown here. You can always see the full list at:  
-> https://github.com/Mohamed-Shaarawy/Solar-System-Spaceship/tree/main
 
 ### Main Components (Conceptual)
 
